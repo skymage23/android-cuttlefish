@@ -17,4 +17,5 @@ cuttlefish-*_*.*.*.tar.xz
 /*/debian/files
 /*/debian/*.debhelper
 /*/debian/debhelper-build-stamp
-
+/*/__pycache__/*
+/*/__pycache__
